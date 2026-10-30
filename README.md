@@ -73,4 +73,4 @@ A API iniciará na porta **`8080`**.
 ---
 
 ## 👤 Autor
-Desenvolvido por **Matheus Sousa** ([@MatheusSousaa](https://github.com/MatheusSousaa)) com assistência de IA.
+Desenvolvido por **Matheus Sousa** ([@MatheusSousaa](https://github.com/MatheusSousaa))
